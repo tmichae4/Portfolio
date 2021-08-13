@@ -70,7 +70,7 @@ html{
     font-family: century;
     font-size: 3rem;
     text-align: center;
-    margin: 30px 0px;
+    margin: 30px 20px;
 }  
 
 .button{
@@ -113,6 +113,7 @@ html{
 #intro h2{
     font-size: 2rem;
     margin-bottom: 20px;
+    
 }
 /* Portfolio Section */
 #portfolio{
